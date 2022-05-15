@@ -10,4 +10,7 @@ Modules required for this program:
 * matplotlib.pyplot
 * numpy
 
-Go ahead and run this code on your terminal. If it works fine, feel free to make it into an executable file using [other python modules](https://pythonexamples.org/python-py-to-exe/#:~:text=Step%20by%20Step%20process%20to%20convert%20.py%20to,convert%20to%20.exe.%20...%203%20Run%20pyinstaller%20command)
+Go ahead and run this code on your terminal. It has also been converted to an excutable file for Windows users to run locally. Click [Here](https://github.com/eplasbaba-uwu/calculator-python/blob/main/dist/calculator.exe) to go to the file directory and download from there if you wish to do so.
+
+
+
