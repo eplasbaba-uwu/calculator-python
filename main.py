@@ -20,3 +20,4 @@ def run():
     elif loop == "exit":
         exit
 
+run()
