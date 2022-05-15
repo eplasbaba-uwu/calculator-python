@@ -14,3 +14,5 @@ Go ahead and run this code on your terminal. It has also been converted to an ex
 
 
 
+Finally, I would like to declare that this calculator is not perfect will be improved later. If you might have any suggestions, here is my gmail:
+* [eplasbaba1@gmail.com]
