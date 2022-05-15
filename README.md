@@ -9,6 +9,7 @@ Features of this calculator:
 Modules required for this program: 
 * matplotlib.pyplot
 * numpy
+* pyinstaller(to convert .py files to .exe)
 
 Go ahead and run this code on your terminal. It has also been converted to an excutable file for Windows users to run locally. Click [Here](https://github.com/eplasbaba-uwu/calculator-python/blob/main/dist/calculator.exe) to go to the file directory and download from there if you wish to do so.
 
